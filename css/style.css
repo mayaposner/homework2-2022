@@ -89,9 +89,9 @@ div {
 }
 
 span{ 
-    text-transform: capitalize;
+    text-transform: uppercase;
     text-decoration: underline;
-    text-shadow: 0 0;
+    text-shadow: none;
 }
 
 footer{ 
@@ -105,13 +105,7 @@ footer p{
     padding-top: 10px; 
     padding-right: 10px;
     padding-bottom: 10px;
+    padding-left: none;
 
 }
-
-
-/*  
-- have to fix color contrast in .yellow 
-- make sure to validate 
-*/
-
 
